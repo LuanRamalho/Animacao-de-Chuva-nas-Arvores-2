@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url('https://64.media.tumblr.com/1a1af6deff28da47bab988bc2f29727c/tumblr_n236zsJjAb1t5q87jo1_500.gif');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
